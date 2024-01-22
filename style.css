@@ -1,0 +1,25 @@
+.bob
+{
+    background-color:coral;
+    border-radius:20px;
+    margin-top:50px;
+    padding:30px;
+}
+
+body{
+    text-align:center;
+    background-color:silver;
+}
+
+#rel
+{
+    margin-top:30px;
+    
+}
+
+#thing
+{
+    font-size:15px;
+    font-weight: 10px;
+    font:bold;
+}
